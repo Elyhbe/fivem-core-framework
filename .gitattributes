@@ -1,0 +1,5 @@
+# Configuration for git attributes
+public/*.html linguist-vendored
+*.jpg binary
+app/**/*.tsx linguist-detectable
+*.woff2 binary
